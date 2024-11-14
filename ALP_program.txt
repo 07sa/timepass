@@ -1,0 +1,5 @@
+MOV A, B
+ADD A, 1
+JMP 010
+SUB A, B
+HLT
